@@ -1,6 +1,6 @@
 /* Works on Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
-    width: 7px;
+    width: 6px;
 }
 *::-webkit-scrollbar-track {
     background: var(--scroll-bg); /* Scrollbar track background */
