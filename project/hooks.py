@@ -66,4 +66,6 @@ app_include_css = "/assets/project/css/business_theme_v14.css"
 
 # override_doctype_dashboards = {
 #     "Task": "project.task.get_dashboard_data"
+# force rebuild
+
 # }
